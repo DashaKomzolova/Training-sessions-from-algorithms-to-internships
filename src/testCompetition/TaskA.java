@@ -1,3 +1,5 @@
+package testCompetition;
+
 import java.util.Scanner;
 
 public class TaskA {
