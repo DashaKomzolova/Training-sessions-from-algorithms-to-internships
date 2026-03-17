@@ -1,4 +1,4 @@
-package blockOne.partTwo;
+package blockOne.trainings.partTwo;
 
 import java.util.Scanner;
 
